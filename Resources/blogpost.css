@@ -1,0 +1,111 @@
+
+body {
+max-width: 100% ;
+margin: auto ;
+padding: 0px ;
+	}
+
+
+table {
+  background-color: #dddddd;
+  table-layout:fixed;
+  font-family: arial, sans-serif;
+  font-size: 20pt;
+  border-collapse: collapse;
+  width: 100%;
+  border: 5px solid #dddddd;
+  overflow: auto;
+  text-align: center;
+  vertical-align: center;
+}
+td {
+  margin: 10px 0px 10px 0px;
+  height: 200px;
+  font-size: 23pt;
+}
+h2 {
+text-align: left ;
+}
+h3 {
+text-align: left ;
+}
+h3 {
+text-align: left ;
+}
+
+
+footer {
+text-align: center ;
+}
+a {
+color: darkblue;
+text-decoration: none;}
+a:visited{
+color: darkblue;
+text-decoration: none;
+}
+code {
+color: darkblue ;
+border-radius: 5px ;
+		}
+
+pre {
+	padding: 1em ;
+	white-space: pre-wrap;
+	overflow-wrap: break-word ;
+	max-width: 600px ;
+	margin: auto ;
+}
+
+.wide { max-width: 1000px ; }
+
+.mainpart {
+        margin: auto ;
+        padding: 50px 0px;
+        margin-bottom: 100px ;
+	max-width: 1000px;
+	font-size: 22pt;
+}
+h1 {
+text-align: center ;
+}
+p {
+ padding: 0px 10px 0px 10px;
+ line-height: 1.8;
+}
+@media only screen and (min-width: 920px) {
+  /* For tablets: */
+  li {margin: 15px 0 0 0;}
+  .mainpart {
+	font-size: 22pt;
+        max-width: 95%;
+  }
+  p { line-height: 1.8; }
+  table {   border: 2px solid #dddddd;
+  	    font-size: 14pt;
+    }
+td {
+  margin: 10px 0px 10px 0px;
+  height: 50pt;
+  font-size: 23pt;
+}
+
+}
+@media only screen and (min-width: 1000px) {
+  /* For desktop: */
+  li {margin: 15px 0 0 0;}
+  .mainpart {font-size: 14pt;
+	  max-width: 800px;
+  }
+  p { line-height: 1.5; }
+  table {   border: 2px solid #dddddd;
+  	    font-size: 14pt;
+    }
+td {
+  margin: 10px 0px 10px 0px;
+  height: auto;
+  font-size: 14pt;
+}
+
+
+}
