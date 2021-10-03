@@ -1,5 +1,6 @@
-./generator_postblog.sh
-./generator_feedblog.sh > feed.xml
-./generator_indexblog.sh > index.html
+./Resources/generator_postblog.sh
+./Resources/generator_feedblog.sh > feed.xml
+./Resources/generator_indexblog.sh > index.html
+git add *
 git commit -a
 git push
