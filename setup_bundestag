@@ -1,3 +1,4 @@
+git pull
 ./Resources/generator_postblog.sh
 ./Resources/generator_feedblog.sh > feed.xml
 ./Resources/generator_indexblog.sh > index.html
