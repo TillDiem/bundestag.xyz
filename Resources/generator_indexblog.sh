@@ -56,7 +56,7 @@ echo '
 
 <h2>Referenzen: </h2>
 <ul>
-<li><a href="https://www.bundestag.de/drucksachen">Drucksachen ( Anträge, kleine Anfragen etc.)</a>
+<li><a href="https://www.bundestag.de/drucksachen">Drucksachen (Anträge, kleine Anfragen etc.)</a>
 <li><a href="https://www.bundestag.de/protokolle">Plenarprotokolle</a>
 <li><a href="https://www.bundestag.de/rss">RSS Feeds aus dem Bundestag</a>
 </ul>
