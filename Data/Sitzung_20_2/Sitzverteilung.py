@@ -1,7 +1,6 @@
 from numpy import *
 #               CDU/CSU          SPD       AFD      FDP      Linke    Gruene
 Votes = array([[8775471+2402827, 11955434, 4803902, 5319952, 2270906, 6852206]])
-
 NumberSeats = int(input("Anzahl zu vergebender Sitze:\n"))
 
 
